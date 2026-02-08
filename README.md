@@ -1,14 +1,14 @@
 # David-s-Projects
 Projects
-<h1>Hi, I'm David the <br/><a href="https://github.com/Mcdav3y/David-s-Projects">Help Desk Technician</a>
-
+<h1>Hi, I'm David the<a href="https://github.com/Mcdav3y/David-s-Projects">Help Desk Technician</a>
+<br><br>
 <h2>👨‍💻 Windows Active Directory Projects:</h2>
 - <b>User accounts</b>
   - [Practicing account unlocking user account and password resets)](https://github.com)
-
+<br><br>
 
 [linkedin]: 
-
+<br><br>
 
 Here are some ideas to get you started:
 
