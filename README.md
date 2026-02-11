@@ -3,7 +3,7 @@
 <br><br>
 <h2>👨‍💻 Windows Active Directory Projects:</h2>
 - <b>User accounts</b>
-  - <a href="https://github.com">[Practicing account unlocking user account and password resets)]</a>
+  - <a href="https://github.com">[Unlocking user accounts and password resets)]</a>
   
 <br><br>
 
