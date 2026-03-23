@@ -11,6 +11,11 @@
   - Creating Groups
 <br><br>
 <h2>🕵️  SIEM Projects </h2>
+
+- <a href="https://github.com/David-s9/Threat-Hunting-with-Splunk">Threat hunting with Splunk</a>
+
+
+
 <br><br>
 
 [linkedin]: 
